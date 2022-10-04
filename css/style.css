@@ -1016,7 +1016,7 @@ a.categories__item:hover {
 	background: url('../img/social/sms.svg') left no-repeat;
 }
 .contacts-footer__link_location {
-	background: url('../img/location.svg') left no-repeat;
+	background: url('../img/social/location.svg') left no-repeat;
 }
 
 .body-footer__menu {}
